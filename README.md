@@ -114,6 +114,11 @@ A copy of the public key can be found on keyservers or in F46F7399.asc
 
 ## License
 
+This software makes use of the Tor Projects work: https://www.torproject.org/
+
+    This product is produced independently from the Tor® anonymity software and 
+    carries no guarantee from The Tor Project about quality, suitability or anything else.
+
 Licensed under the GPLv3: https://www.gnu.org/licenses/gpl-3.0.html
 
     Autonomous Tor Traffic Generator. A tool to generate web traffic over the Tor network.
