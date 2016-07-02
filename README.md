@@ -26,7 +26,7 @@ The purpose of this software is **not**:
 
 ## Required Software
 
-* Python Version v3+:	https://www.python.org/
+* Python Version v3+:	https://www.python.org
 
 	* Requests v2.10:	https://pypi.python.org/pypi/requests
 
